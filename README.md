@@ -1,7 +1,5 @@
 ### # 
-<h1 align="center">
-    🚨COMUNICADO🚨
-  </h1>
+
 <h4 align="center"> 
 
   🚧⚠ Estamos em fase de desenvolvimento... ⚠🚧
